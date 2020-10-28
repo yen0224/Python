@@ -4,7 +4,7 @@ import numpy as np
 
 def f(x):
     # function
-    return x**3-5*x**2
+    return x**3-5*x
 
 sequence = [-4.5718, -4.5716, -4.5714, -4.5712, -4.571]
 for i in sequence:
